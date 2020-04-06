@@ -1,0 +1,162 @@
+.bar_bottom {
+	
+}
+.top_bar {
+	
+}
+#bar_right {
+	
+}
+top_magnetcell_open {
+	HEIGHT: 100px; BACKGROUND-COLOR: blue
+}
+#B_table {
+	WIDTH: 1120px; TEXT-ALIGN: left
+}
+#B_center {
+	COLOR: #808080
+}
+#B_container {
+	HEIGHT: 268px; BACKGROUND-IMAGE: url(img/modules_bkg.gif); BACKGROUND-REPEAT: repeat-x; PADDING-TOP: 15px
+}
+#B_title {
+	HEIGHT: 33px; FONT-WEIGHT: bold; COLOR: #606060; PADDING-TOP: 5px
+}
+.module {
+	HEIGHT: 100%; WIDTH: 30%; FLOAT: left; COLOR: #808080; MARGIN-LEFT: 3%; DISPLAY: none
+}
+#leftbloc {
+	HEIGHT: 100%; BORDER-RIGHT: #bfbfbf 1px solid; WIDTH: 20%; FLOAT: left; BACKGROUND-COLOR: #e0e0e0; MARGIN-RIGHT: 0.5%
+}
+#Tree_area {
+	OVERFLOW: auto; HEIGHT: 86.5%; WIDTH: 97%; MARGIN-TOP: 3%; FLOAT: left; MARGIN-LEFT: 3%; BACKGROUND-COLOR: #e0e0e0
+}
+#Tree_area .jspDrag {
+	BACKGROUND: #b5b5b5; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px
+}
+#Tree_area .jspTrack .jspActive {
+	BACKGROUND: #898989
+}
+.jspTrack .jspHover {
+	BACKGROUND: #898989
+}
+.jspDrag:hover {
+	BACKGROUND: #898989
+}
+#Tree_area .jspTrack {
+	BACKGROUND: #e0e0e0
+}
+#Tree_area .jspArrow {
+	BACKGROUND-COLOR: #e0e0e0; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px
+}
+.logo {
+	HEIGHT: 100%; VERTICAL-ALIGN: middle; DISPLAY: inline-block
+}
+#Logo_area {
+	HEIGHT: 12%; WIDTH: 100%; VERTICAL-ALIGN: middle; TEXT-ALIGN: center; BACKGROUND-COLOR: #d0d0d0
+}
+#root {
+	FONT-SIZE: 11px; VERTICAL-ALIGN: middle; LINE-HEIGHT: 15px
+}
+#p-root {
+	HEIGHT: 18px
+}
+#p-capture {
+	FONT-SIZE: 11px; HEIGHT: 18px; FONT-WEIGHT: bold
+}
+#shadow {
+	HEIGHT: 100%; WIDTH: 100%; BACKGROUND-IMAGE: url(img/shadow_side.gif); BACKGROUND-REPEAT: repeat-y; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.content {
+	HEIGHT: 100%; WIDTH: 97%; FLOAT: left; PADDING-BOTTOM: 0.5%; PADDING-TOP: 0.5%; PADDING-LEFT: 0.5%; PADDING-RIGHT: 0.5%; BACKGROUND-COLOR: white
+}
+#3D {
+	HEIGHT: 100%
+}
+.top_tableNormal {
+	HEIGHT: 80%; WIDTH: 96%; PADDING-TOP: 1%; PADDING-LEFT: 2%; PADDING-RIGHT: 2%
+}
+.top_table_withBottom {
+	HEIGHT: 60%; WIDTH: 96%; PADDING-TOP: 1%; PADDING-LEFT: 2%; PADDING-RIGHT: 2%
+}
+.normal_3D_object {
+	OVERFLOW: hidden; HEIGHT: 100%; WIDTH: 100%; FLOAT: left
+}
+.objectWithLeftBlock {
+	OVERFLOW: hidden; HEIGHT: 100%; WIDTH: 79.35%; FLOAT: left
+}
+#rightbuttons LI {
+	LIST-STYLE-TYPE: none; LIST-STYLE-POSITION: outside; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+#rightbuttons {
+	WIDTH: 30px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+#BOM_Table {
+	WIDTH: 100%
+}
+#meta_list TR TD {
+	COLOR: #7d7d7d
+}
+P {
+	COLOR: #808080
+}
+H1 {
+	COLOR: #6c6c6c
+}
+H2 {
+	COLOR: #6c6c6c
+}
+H3 {
+	COLOR: #6c6c6c
+}
+H1 {
+	FONT-SIZE: 16px
+}
+H2 {
+	FONT-SIZE: 14px
+}
+H3 {
+	FONT-SIZE: 12px; MARGIN-BOTTOM: 18px
+}
+BODY {
+	MIN-WIDTH: 960px; MIN-HEIGHT: 720px; BACKGROUND-COLOR: #ebebeb
+}
+.bom_line_pair {
+	FONT-WEIGHT: normal; COLOR: grey; BACKGROUND-COLOR: #e4e4e4
+}
+.bom_line_unpair {
+	FONT-WEIGHT: normal; COLOR: grey; BACKGROUND-COLOR: #ebebeb
+}
+.bom_line_highlight {
+	FONT-WEIGHT: bolder; COLOR: white; BACKGROUND-COLOR: #77b800
+}
+#meta_rows_table {
+	FONT-SIZE: 0.8em; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; MARGIN-TOP: 15px; COLOR: #686868
+}
+.ui-button-text {
+	FONT-SIZE: 0.8em; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #686868
+}
+.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {
+	FLOAT: none; TEXT-ALIGN: center
+}
+.ui-dialog {
+	BACKGROUND: white; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px
+}
+.ui-widget-header {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-LEFT: 0px
+}
+#Help_Icones TD {
+	FONT-SIZE: 0.8em; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; COLOR: #686868; PADDING-TOP: 4px; PADDING-LEFT: 10px
+}
+#Help_Icones {
+	PADDING-TOP: 10px
+}
+#meta_rows_table TD {
+	PADDING-RIGHT: 10px
+}
+.ui-dialog-title {
+	FONT-SIZE: 14px; FONT-VARIANT: small-caps; COLOR: white
+}
+.ui-widget-header .ui-state-hover {
+	BORDER-TOP-COLOR: white; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-LEFT-COLOR: white; BORDER-BOTTOM-COLOR: white; BORDER-RIGHT-COLOR: white
+}

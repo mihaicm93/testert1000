@@ -1,0 +1,93 @@
+HTML {
+	BORDER-TOP: medium none; HEIGHT: 100%; BORDER-RIGHT: medium none; WIDTH: 100%; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: medium none; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+BODY {
+	FONT-SIZE: 0.8em; HEIGHT: 100%; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; WIDTH: 100%; COLOR: black; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: white
+}
+TABLE {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: medium none; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+TD {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: medium none; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+TR {
+	BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: medium none; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+#table_3D {
+	HEIGHT: 100%; WIDTH: 100%; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+.global {
+	HEIGHT: 100%; WIDTH: 100%; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+#activex_cell {
+	HEIGHT: 100%; WIDTH: 100%
+}
+UNKNOWN {
+	HEIGHT: 100%; WIDTH: 100%
+}
+#bottom_bar {
+	
+}
+#top_bar {
+	
+}
+.bar_bottom {
+	OVERFLOW: hidden; HEIGHT: 100%; WIDTH: 100%; FLOAT: left
+}
+.bar_top {
+	OVERFLOW: hidden; WIDTH: 100%; PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; TOP: 0px; PADDING-RIGHT: 0px
+}
+.bottom_cell_open {
+	HEIGHT: 30%; WIDTH: 100%; COLOR: #000000; PADDING-TOP: 1%
+}
+.top_cell_open {
+	HEIGHT: 269px; WIDTH: 100%; COLOR: #000000
+}
+.bottom_cell_close {
+	HEIGHT: 0%; WIDTH: 100%; COLOR: #000000
+}
+.top_cell_close {
+	COLOR: #000000
+}
+.top_magnetcell_open {
+	HEIGHT: 6%; WIDTH: 100%
+}
+#dialog_detail_view {
+	TEXT-DECORATION: none; HEIGHT: auto; POSITION: absolute; OUTLINE-WIDTH: 0px; PADDING-BOTTOM: 4px; PADDING-TOP: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; MARGIN: 10px 0px 0px 8px; LIST-STYLE: none none outside; OUTLINE-COLOR: ; PADDING-RIGHT: 0px
+}
+#ActiveX2_div {
+	
+}
+#dialog_detail_view LI {
+	HEIGHT: 150px; WIDTH: 150px; FLOAT: left; TEXT-ALIGN: center
+}
+#dialog_detail_view H5 {
+	FONT-SIZE: 9px; CURSOR: move; HEIGHT: 11%; WIDTH: 99%
+}
+#dialog_detail_view DIV {
+	MARGIN-TOP: -19px
+}
+#dialog_detail_view .ui-resizable-w {
+	WIDTH: 15px; MARGIN-TOP: 0px; LEFT: -15px
+}
+#dialog_detail_view .ui-resizable-e {
+	WIDTH: 15px; RIGHT: -15px; MARGIN-TOP: 0px
+}
+#dialog_detail_view .ui-resizable-s {
+	HEIGHT: 15px; BOTTOM: -15px
+}
+#dialog_detail_view .ui-resizable-n {
+	HEIGHT: 15px; TOP: -15px
+}
+#dialog_detail_view .ui-resizable-nw {
+	HEIGHT: 15px; WIDTH: 15px; LEFT: -10px; TOP: -10px
+}
+#dialog_detail_view .ui-resizable-ne {
+	HEIGHT: 15px; WIDTH: 15px; RIGHT: -10px; TOP: -10px
+}
+#dialog_detail_view .ui-resizable-se {
+	HEIGHT: 15px; WIDTH: 15px; BACKGROUND-IMAGE: none; RIGHT: -10px; BOTTOM: -10px
+}
+#dialog_detail_view .ui-resizable-sw {
+	HEIGHT: 15px; WIDTH: 15px; LEFT: -10px; BOTTOM: -10px
+}
